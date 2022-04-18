@@ -1,0 +1,8 @@
+puts "hello world"
+number = 9
+while
+    If number < 10
+    puts "#{number}"
+    number =+ 2
+end
+end
